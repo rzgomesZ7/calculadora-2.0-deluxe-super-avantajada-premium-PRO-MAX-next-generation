@@ -160,6 +160,6 @@ Exportar histórico em JSON
 📜 Licença
 projeto educativo sem fins lucrativos, apenas com utilidade em desenvolvimento de aprendizagem durante o curso.
 
-# Autor: [Ricardo Misael]
+Autor: [Ricardo Misael]
 📅 calculadora premium super avantajada, remasterizada pro MAX 2.0
 💬 “FIote, pra continuar clica no ENTER aí...”
