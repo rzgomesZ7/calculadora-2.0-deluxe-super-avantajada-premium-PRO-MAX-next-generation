@@ -1,0 +1,1 @@
+Sinta-se à vontade para usar e adaptar o código para fins pessoais, estudo ou projetos — se for redistribuir em contexto público, coloque uma nota de atribuição. Se quiser, eu posso sugerir uma licença permissiva (MIT) e gerar um LICENSE curto.
